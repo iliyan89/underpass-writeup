@@ -29,7 +29,6 @@ Note that at the time of this publication the machine is still active, so big sp
 
 1. Network scanning and open ports enumeration:
 
-![4-nmap](https://github.com/user-attachments/assets/ded41b32-8a62-4295-81d0-eaf814b75682)
 ![3-nmap-udp](https://github.com/user-attachments/assets/2d624ae8-ba69-4a8d-9c82-9f3e7940637d)
 
 2. daloRADIUS login:
@@ -44,7 +43,4 @@ Note that at the time of this publication the machine is still active, so big sp
 
 ![10-hashcat](https://github.com/user-attachments/assets/146c4fe1-36f0-40a3-975f-dcafd211956c)
 
-..to access the rest of the steps, please download the attached file (since this post will become too large).
-
-
-
+5. to access the rest of the steps, please download the attached file (since this post will become too large).
