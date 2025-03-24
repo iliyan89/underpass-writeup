@@ -4,6 +4,7 @@
 
 This is a write-up for UnderPass, an easy level difficulty vulnerable machine on HackTheBox.
 Note that at the time of this publication the machine is still active, so big spoilers and hints are to be used with caution.
+To access the full document with explanation, please download the PDF file from above.
 
 ### Skills Learned
 
